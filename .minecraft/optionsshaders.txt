@@ -1,0 +1,19 @@
+#Mon Mar 29 20:25:18 CDT 2021
+shaderPack=Nostalgia_v3.0.zip
+antialiasingLevel=0
+normalMapEnabled=true
+specularMapEnabled=true
+renderResMul=1.0
+shadowResMul=0.5
+handDepthMul=0.0625
+cloudShadow=false
+oldHandLight=default
+oldLighting=default
+tweakBlockDamage=false
+shadowClipFrustrum=true
+TexMinFilB=0
+TexMinFilN=0
+TexMinFilS=0
+TexMagFilB=0
+TexMagFilN=0
+TexMagFilS=0

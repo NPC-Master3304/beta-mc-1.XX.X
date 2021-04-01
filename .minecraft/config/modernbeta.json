@@ -1,0 +1,18 @@
+{
+  "fixedSeed": 0,
+  "useFixedSeed": false,
+  "renderBetaSkyColor": true,
+  "renderBetaBiomeColor": true,
+  "renderAlphaSunset": false,
+  "renderGameVersion": true,
+  "generateOceans": true,
+  "biomeType": "beta",
+  "generateInfdevPyramid": true,
+  "generateInfdevWall": true,
+  "indevLevelType": "island",
+  "indevLevelTheme": "normal",
+  "indevLevelWidth": 256,
+  "indevLevelLength": 256,
+  "indevLevelHeight": 128,
+  "indevCaveRadius": 1.0
+}

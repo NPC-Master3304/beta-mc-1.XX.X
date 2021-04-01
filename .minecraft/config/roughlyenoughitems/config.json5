@@ -1,0 +1,962 @@
+{
+	"basics": {
+		"favorites": [
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:bone_meal",
+					"Count": 127,
+					"tag": {
+						"display": {
+							"Lore": [
+								"{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"yellow\",\"text\":\"How to upgrade your Chestplate\"},{\"italic\":false,\"color\":\"white\",\"text\":\":\"}],\"text\":\"\"}",
+								"{\"extra\":[{\"text\":\" \"},{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"gray\",\"text\":\"1. \"},{\"italic\":false,\"color\":\"dark_green\",\"text\":\"Break grass or dirt for bone meal.\"}],\"text\":\"\"}",
+								"{\"extra\":[{\"text\":\" \"},{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"gray\",\"text\":\"2. \"},{\"italic\":false,\"color\":\"dark_green\",\"text\":\"Right click grass with bone meal.\"}],\"text\":\"\"}",
+								"{\"extra\":[{\"text\":\" \"},{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"gray\",\"text\":\"3. \"},{\"italic\":false,\"color\":\"dark_green\",\"text\":\"Break \"},{\"italic\":false,\"color\":\"white\",\"text\":\"sflowers\"},{\"italic\":false,\"color\":\"dark_green\",\"text\":\" for \"},{\"italic\":false,\"color\":\"white\",\"text\":\"seeds\"},{\"italic\":false,\"color\":\"dark_green\",\"text\":\".\"}],\"text\":\"\"}",
+								"{\"extra\":[{\"text\":\" \"},{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"gray\",\"text\":\"4. \"},{\"italic\":false,\"color\":\"dark_green\",\"text\":\"Collect \"},{\"italic\":false,\"color\":\"white\",\"text\":\"24\"},{\"italic\":false,\"color\":\"dark_green\",\"text\":\" seeds to upgrade.\"}],\"text\":\"\"}",
+								"{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"gray\",\"text\":\"More help: \"},{\"italic\":false,\"color\":\"green\",\"text\":\"/info \"},{\"italic\":false,\"color\":\"white\",\"text\":\"Tailor\"}],\"text\":\"\"}"
+							]
+						}
+					},
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:large_fern",
+					"Count": 127,
+					"tag": {
+						"AttributeModifiers": [
+							{
+								"AttributeName": "generic.movement_speed",
+								"Operation": 1,
+								"UUID": [
+									0,
+									99,
+									0,
+									109641800
+								],
+								"Amount": 50.0,
+								"Name": "generic.movementSpeed"
+							},
+							{
+								"AttributeName": "generic.attack_damage",
+								"Operation": 0,
+								"UUID": [
+									0,
+									99,
+									0,
+									109641900
+								],
+								"Amount": 100000.0,
+								"Name": "generic.attackDamage"
+							}
+						],
+						"display": {
+							"Lore": [
+								"{\"italic\":false,\"color\":\"dark_red\",\"text\":\"Get high\"}"
+							],
+							"Name": "{\"italic\":false,\"color\":\"dark_red\",\"text\":\"Weed\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:sugar",
+					"Count": 127,
+					"tag": {
+						"HideFlags": 34,
+						"AttributeModifiers": [
+							{
+								"AttributeName": "generic.movement_speed",
+								"Operation": 1,
+								"UUID": [
+									0,
+									99,
+									0,
+									109252500
+								],
+								"Amount": 20.0,
+								"Name": "generic.movementSpeed"
+							},
+							{
+								"AttributeName": "generic.attack_speed",
+								"Operation": 1,
+								"UUID": [
+									0,
+									99,
+									0,
+									109252600
+								],
+								"Amount": 300.0,
+								"Name": "generic.attackSpeed"
+							},
+							{
+								"AttributeName": "generic.attack_damage",
+								"Operation": 0,
+								"UUID": [
+									0,
+									99,
+									0,
+									109252700
+								],
+								"Amount": 30.0,
+								"Name": "generic.attackDamage"
+							}
+						],
+						"display": {
+							"Lore": [
+								"{\"italic\":false,\"color\":\"dark_green\",\"text\":\"*sniff*\"}"
+							],
+							"Name": "{\"bold\":true,\"italic\":false,\"text\":\"\\\"Coca-Cola\\\"\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:petrified_oak_slab",
+					"Count": 127,
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:salmon",
+					"Count": 127,
+					"tag": {
+						"HideFlags": 3,
+						"AttributeModifiers": [
+							{
+								"Amount": 1024.0,
+								"Slot": "mainhand",
+								"AttributeName": "minecraft:generic.attack_speed",
+								"Operation": 0,
+								"UUID": [
+									-1201010,
+									18952,
+									22145,
+									-37904
+								],
+								"Name": "generic.attack_speed"
+							}
+						],
+						"display": {
+							"Lore": [
+								"{\"italic\":false,\"color\":\"gray\",\"extra\":[{\"italic\":false,\"color\":\"dark_purple\",\"text\":\"\"}],\"text\":\"Smelly IV\"}",
+								"{\"italic\":false,\"color\":\"gray\",\"text\":\"Rotten II\"}"
+							],
+							"Name": "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"text\":\"Smelly Fish\"}],\"text\":\"\"}"
+						},
+						"Enchantments": [
+							{
+								"lvl": 1,
+								"id": "minecraft:vanishing_curse"
+							},
+							{
+								"lvl": 5,
+								"id": "minecraft:knockback"
+							},
+							{
+								"lvl": 4,
+								"id": "minecraft:looting"
+							},
+							{
+								"lvl": 7,
+								"id": "minecraft:sharpness"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:blaze_rod",
+					"Count": 127,
+					"tag": {
+						"RepairCost": 13,
+						"display": {
+							"Name": "{\"text\":\"Empire Wand\"}"
+						},
+						"Enchantments": [
+							{
+								"lvl": 1000,
+								"id": "minecraft:sharpness"
+							},
+							{
+								"lvl": 1000,
+								"id": "minecraft:knockback"
+							},
+							{
+								"lvl": 1000,
+								"id": "minecraft:fire_aspect"
+							},
+							{
+								"lvl": 1000,
+								"id": "minecraft:looting"
+							},
+							{
+								"lvl": 1000,
+								"id": "minecraft:power"
+							},
+							{
+								"lvl": 1000,
+								"id": "minecraft:punch"
+							},
+							{
+								"lvl": 1000,
+								"id": "minecraft:flame"
+							},
+							{
+								"lvl": 1000,
+								"id": "minecraft:infinity"
+							},
+							{
+								"lvl": 1000,
+								"id": "minecraft:protection"
+							},
+							{
+								"lvl": 1000,
+								"id": "minecraft:feather_falling"
+							},
+							{
+								"lvl": 1000,
+								"id": "minecraft:respiration"
+							},
+							{
+								"lvl": 1000,
+								"id": "minecraft:aqua_affinity"
+							},
+							{
+								"lvl": 1000,
+								"id": "minecraft:thorns"
+							},
+							{
+								"lvl": 1000,
+								"id": "minecraft:unbreaking"
+							},
+							{
+								"lvl": 1000,
+								"id": "minecraft:fortune"
+							},
+							{
+								"lvl": 1000,
+								"id": "minecraft:efficiency"
+							},
+							{
+								"lvl": 1000,
+								"id": "minecraft:fire_protection"
+							},
+							{
+								"lvl": 1000,
+								"id": "minecraft:silk_touch"
+							},
+							{
+								"lvl": 1000,
+								"id": "minecraft:blast_protection"
+							},
+							{
+								"lvl": 1000,
+								"id": "minecraft:projectile_protection"
+							},
+							{
+								"lvl": 1000,
+								"id": "minecraft:smite"
+							},
+							{
+								"lvl": 1000,
+								"id": "minecraft:bane_of_arthropods"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:blaze_rod",
+					"Count": 127,
+					"tag": {
+						"display": {
+							"Name": "{\"text\":\"§6§o§lＥ ｍ ｐ ｉ ｒ ｅ  Ｒ ｏ ｄ\"}"
+						},
+						"Enchantments": [
+							{
+								"lvl": 32767,
+								"id": "minecraft:bane_of_arthropods"
+							},
+							{
+								"lvl": 32767,
+								"id": "minecraft:binding_curse"
+							},
+							{
+								"lvl": 32767,
+								"id": "minecraft:fire_aspect"
+							},
+							{
+								"lvl": 2,
+								"id": "minecraft:knockback"
+							},
+							{
+								"lvl": 5,
+								"id": "minecraft:looting"
+							},
+							{
+								"lvl": 32767,
+								"id": "minecraft:sharpness"
+							},
+							{
+								"lvl": 32767,
+								"id": "minecraft:smite"
+							},
+							{
+								"lvl": 32767,
+								"id": "minecraft:sweeping"
+							},
+							{
+								"lvl": 32767,
+								"id": "minecraft:unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:splash_potion",
+					"Count": 127,
+					"tag": {
+						"CustomPotionColor": 16746496,
+						"CustomPotionEffects": [
+							{
+								"Duration": 99999,
+								"Id": 23,
+								"Amplifier": 255,
+								"ShowParticles": 0
+							}
+						],
+						"display": {
+							"Name": "[{\"text\":\" \",\"italic\":false},{\"text\":\"Ｓａｔｕｒａｔｉｏｎ\",\"italic\":true,\"color\":\"gold\"}]"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:splash_potion",
+					"Count": 127,
+					"tag": {
+						"CustomPotionColor": 16730112,
+						"CustomPotionEffects": [
+							{
+								"Duration": 999999,
+								"Id": 3,
+								"Amplifier": 5,
+								"ShowParticles": 0
+							},
+							{
+								"Duration": 9999,
+								"Id": 14,
+								"Amplifier": 9999,
+								"ShowParticles": 0
+							},
+							{
+								"Duration": 999999,
+								"Id": 11,
+								"Amplifier": 9999,
+								"ShowParticles": 0
+							},
+							{
+								"Duration": 999999,
+								"Id": 5,
+								"Amplifier": 9999,
+								"ShowParticles": 0
+							}
+						],
+						"display": {
+							"Name": "[{\"text\":\"\"}]"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:splash_potion",
+					"Count": 127,
+					"tag": {
+						"CustomPotionColor": 65467,
+						"CustomPotionEffects": [
+							{
+								"Duration": 999999,
+								"Id": 16,
+								"Amplifier": 9999,
+								"ShowParticles": 0
+							}
+						],
+						"display": {
+							"Name": "[{\"text\":\" \",\"italic\":false},{\"text\":\"Ｎｉｇｈｔ Ｖｉｓｉｏｎ\",\"italic\":true,\"color\":\"green\"}]"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:splash_potion",
+					"Count": 127,
+					"tag": {
+						"CustomPotionColor": 0,
+						"CustomPotionEffects": [
+							{
+								"Duration": 9999,
+								"Id": 27,
+								"Amplifier": 9999,
+								"ShowParticles": 0
+							},
+							{
+								"Duration": 99999,
+								"Id": 15,
+								"Amplifier": 9999,
+								"ShowParticles": 0
+							},
+							{
+								"Duration": 9999,
+								"Id": 17,
+								"Amplifier": 9999,
+								"ShowParticles": 0
+							},
+							{
+								"Duration": 9999999,
+								"Id": 7,
+								"Amplifier": 9999,
+								"ShowParticles": 0
+							},
+							{
+								"Duration": 999999,
+								"Id": 18,
+								"Amplifier": 9999,
+								"ShowParticles": 0
+							},
+							{
+								"Duration": 999999,
+								"Id": 20,
+								"Amplifier": 9999,
+								"ShowParticles": 0
+							}
+						],
+						"display": {
+							"Name": "[{\"text\":\"Ｄｅａｔｈ\",\"color\":\"dark_gray\"}]"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:splash_potion",
+					"Count": 127,
+					"tag": {
+						"CustomPotionColor": 12582656,
+						"CustomPotionEffects": [
+							{
+								"Duration": 1,
+								"Id": 24,
+								"Amplifier": 255
+							},
+							{
+								"Duration": 1,
+								"Id": 6,
+								"Amplifier": 9999,
+								"ShowParticles": 0
+							},
+							{
+								"Duration": 1,
+								"Id": 10,
+								"Amplifier": 9999,
+								"ShowParticles": 0
+							}
+						],
+						"display": {
+							"Name": "[{\"text\":\"Ｌｉｆｅ\",\"italic\":true,\"color\":\"yellow\"}]"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:splash_potion",
+					"Count": 127,
+					"tag": {
+						"CustomPotionColor": 14277081,
+						"CustomPotionEffects": [
+							{
+								"Duration": 999999,
+								"Id": 31,
+								"Amplifier": 50,
+								"ShowParticles": 0
+							}
+						],
+						"display": {
+							"Name": "[{\"text\":\"Ｂａｄ Ｏｍｅｎ\",\"color\":\"white\"}]"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:blaze_rod",
+					"Count": 127,
+					"tag": {
+						"Unbreakable": 1,
+						"RepairCost": -1000,
+						"HideFlags": 7,
+						"display": {
+							"Name": "[{\"text\":\"Empire Rod\",\"italic\":false}]"
+						},
+						"Enchantments": [
+							{
+								"lvl": 1,
+								"id": "aqua_affinity"
+							},
+							{
+								"lvl": 1000,
+								"id": "bane_of_arthropods"
+							},
+							{
+								"lvl": 1000,
+								"id": "blast_protection"
+							},
+							{
+								"lvl": 1,
+								"id": "channeling"
+							},
+							{
+								"lvl": 1000,
+								"id": "depth_strider"
+							},
+							{
+								"lvl": 1000,
+								"id": "efficiency"
+							},
+							{
+								"lvl": 1000,
+								"id": "feather_falling"
+							},
+							{
+								"lvl": 1000,
+								"id": "fire_aspect"
+							},
+							{
+								"lvl": 1000,
+								"id": "fire_protection"
+							},
+							{
+								"lvl": 1,
+								"id": "flame"
+							},
+							{
+								"lvl": 10,
+								"id": "fortune"
+							},
+							{
+								"lvl": 1000,
+								"id": "frost_walker"
+							},
+							{
+								"lvl": 1000,
+								"id": "impaling"
+							},
+							{
+								"lvl": 1,
+								"id": "infinity"
+							},
+							{
+								"lvl": 1000,
+								"id": "knockback"
+							},
+							{
+								"lvl": 10,
+								"id": "looting"
+							},
+							{
+								"lvl": 1000,
+								"id": "loyalty"
+							},
+							{
+								"lvl": 1000,
+								"id": "luck_of_the_sea"
+							},
+							{
+								"lvl": 1000,
+								"id": "lure"
+							},
+							{
+								"lvl": 1,
+								"id": "mending"
+							},
+							{
+								"lvl": 1,
+								"id": "multishot"
+							},
+							{
+								"lvl": 1000,
+								"id": "piercing"
+							},
+							{
+								"lvl": 1000,
+								"id": "power"
+							},
+							{
+								"lvl": 1000,
+								"id": "projectile_protection"
+							},
+							{
+								"lvl": 1000,
+								"id": "protection"
+							},
+							{
+								"lvl": 1000,
+								"id": "punch"
+							},
+							{
+								"lvl": 1000,
+								"id": "quick_charge"
+							},
+							{
+								"lvl": 1000,
+								"id": "respiration"
+							},
+							{
+								"lvl": 1000,
+								"id": "riptide"
+							},
+							{
+								"lvl": 1000,
+								"id": "sharpness"
+							},
+							{
+								"lvl": 1,
+								"id": "silk_touch"
+							},
+							{
+								"lvl": 1000,
+								"id": "smite"
+							},
+							{
+								"lvl": 1000,
+								"id": "soul_speed"
+							},
+							{
+								"lvl": 1000,
+								"id": "sweeping"
+							},
+							{
+								"lvl": 1000,
+								"id": "thorns"
+							},
+							{
+								"lvl": 1000,
+								"id": "unbreaking"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:salmon",
+					"Count": 127,
+					"tag": {
+						"HideFlags": 3,
+						"AttributeModifiers": [
+							{
+								"Amount": 1024.0,
+								"Slot": "mainhand",
+								"AttributeName": "minecraft:generic.attack_speed",
+								"Operation": 0,
+								"UUID": [
+									-1201010,
+									18952,
+									22145,
+									-37904
+								],
+								"Name": "generic.attack_speed"
+							}
+						],
+						"display": {
+							"Lore": [
+								"{\"italic\":false,\"color\":\"gray\",\"extra\":[{\"italic\":false,\"color\":\"dark_purple\",\"text\":\"\"}],\"text\":\"Smelly IV\"}",
+								"{\"italic\":false,\"color\":\"gray\",\"text\":\"Rotten II\"}"
+							],
+							"Name": "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"text\":\"Smelly Fish\"}],\"text\":\"\"}"
+						},
+						"Enchantments": [
+							{
+								"lvl": 1,
+								"id": "minecraft:vanishing_curse"
+							},
+							{
+								"lvl": 5,
+								"id": "minecraft:knockback"
+							},
+							{
+								"lvl": 4,
+								"id": "minecraft:looting"
+							},
+							{
+								"lvl": 7,
+								"id": "minecraft:sharpness"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:splash_potion",
+					"Count": 127,
+					"tag": {
+						"CustomPotionColor": 16777215,
+						"CustomPotionEffects": [
+							{
+								"Duration": 9999999,
+								"Id": 14,
+								"Amplifier": 9999,
+								"ShowParticles": 0
+							}
+						],
+						"display": {
+							"Name": "[{\"text\":\" Ｉｎｖｉｓｉｂｉｌｉｔｙ\",\"italic\":false}]"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:barrier",
+					"Count": 127,
+					"tag": {
+						"display": {
+							"Name": "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"dark_red\",\"text\":\"Remove Pet\"}],\"text\":\"\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:cobblestone",
+					"Count": 127,
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:arrow",
+					"Count": 127,
+					"tag": {
+						"display": {
+							"Name": "{\"extra\":[{\"italic\":false,\"color\":\"white\",\"extra\":[{\"color\":\"gray\",\"text\":\"M16 Ammo\"}],\"text\":\"\"}],\"text\":\"\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:potion",
+					"Count": 127,
+					"tag": {
+						"overrideMeta": 1,
+						"Damage": 37,
+						"Potion": "minecraft:strong_healing",
+						"AttributeModifiers": [],
+						"display": {
+							"Name": "{\"extra\":[{\"italic\":false,\"color\":\"white\",\"extra\":[{\"color\":\"white\",\"text\":\"Health Pack\"}],\"text\":\"\"}],\"text\":\"\"}"
+						}
+					},
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:ghast_tear",
+					"Count": 127,
+					"tag": {
+						"overrideMeta": 1,
+						"AttributeModifiers": [],
+						"display": {
+							"Name": "{\"extra\":[{\"italic\":false,\"color\":\"white\",\"extra\":[{\"color\":\"gray\",\"text\":\"Pistol Ammo\"}],\"text\":\"\"}],\"text\":\"\"}"
+						}
+					},
+					"type": "item"
+				}
+			}
+		],
+		// Declares whether cheating mode is on.
+		"cheating": false,
+		"favoritesEnabled": false,
+		"keyBindings": {
+			"recipeKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"usageKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"hideKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"previousPageKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"nextPageKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"focusSearchFieldKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"copyRecipeIdentifierKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"favoriteKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"exportImageKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			}
+		},
+		// Declares whether REI is visible.
+		"overlayVisible": false,
+		"cheatingStyle": "GIVE",
+		"reducedMotion": true
+	},
+	"advanced": {
+		"filtering": {
+			"filteringRules": [
+				"{id:\"roughlyenoughitems:manual\",rule:{}}"
+			],
+			"filteredStacks": []
+		},
+		"tooltips": {
+			// Declares whether REI should append mod names to entries.
+			"appendModNames": false,
+			// Declares whether favorites tooltip should be displayed.
+			"displayFavoritesTooltip": false
+		},
+		"layout": {
+			// The ordering of the items on the entry panel.
+			"entryPanelOrdering": "REGISTRY_ASCENDING",
+			// Declares the maximum amount of recipes displayed in a page if possible.
+			"maxRecipesPerPage": 99,
+			// Declares whether entry rendering time should be debugged.
+			"debugRenderTimeRequired": false
+		},
+		"accessibility": {
+			"entrySize": 1.0,
+			// Declares the position of the entry panel.
+			"displayPanelLocation": "RIGHT",
+			// Declares whether scrolled entry panel should snap to rows.
+			"snapToRows": false,
+			// Declares how the scrollbar in villager screen should act.
+			"villagerScreenPermanentScrollBar": false,
+			"toastDisplayedOnCopyIdentifier": true,
+			// Declares whether REI should use compact tabs for categories.
+			"useCompactTabs": true
+		},
+		"search": {
+			// Declares whether search time should be debugged.
+			"debugSearchTimeRequired": false,
+			// Declares whether REI should search async.
+			"asyncSearch": true,
+			// Declares how many entries should be grouped one async search.
+			"asyncSearchPartitionSize": 100,
+			"tooltipSearch": "ALWAYS",
+			"tagSearch": "PREFIX",
+			"modSearch": "PREFIX"
+		},
+		"commands": {
+			// Declares the command used to change gamemode.
+			"gamemodeCommand": "/gamemode {gamemode}",
+			// Declares the command used in servers to cheat items.
+			"giveCommand": "/give {player_name} {item_identifier}{nbt} {count}",
+			// Declares the command used to change weather.
+			"weatherCommand": "/weather {weather}"
+		},
+		"miscellaneous": {
+			// Declares whether arrows in containers should be clickable.
+			"clickableRecipeArrows": true,
+			"registerRecipesInAnotherThread": true,
+			"newFastEntryRendering": true
+		}
+	},
+	"appearance": {
+		"recipeScreenType": "ORIGINAL",
+		// Declares the appearance of REI windows.
+		"theme": "DARK",
+		"layout": {
+			// Declares the position of the search field.
+			"searchFieldLocation": "CENTER",
+			// Declares the position of the config button.
+			"configButtonLocation": "UPPER",
+			// Declares whether the craftable filter button is enabled.
+			"enableCraftableOnlyButton": true,
+			// Declares whether the utils buttons are shown.
+			"showUtilsButtons": true
+		},
+		// Declares the appearance of recipe's border.
+		"recipeBorder": "NONE",
+		// Declares whether entry panel is scrolled.
+		"scrollingEntryListWidget": false,
+		"horizontalEntriesBoundaries": 1.0,
+		"verticalEntriesBoundaries": 1.0,
+		"syntaxHighlightingMode": "PLAIN"
+	},
+	"functionality": {
+		// Declares whether REI should remove the recipe book.
+		"disableRecipeBook": true,
+		// Declares whether subsets is enabled.
+		"isSubsetsEnabled": false,
+		"allowInventoryHighlighting": false
+	}
+}

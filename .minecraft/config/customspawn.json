@@ -1,0 +1,13 @@
+{
+  "chunkConstant": 17,
+  "passiveTicksToWait": 400,
+  "passiveCap": 10,
+  "hostileCap": 70,
+  "ambientCap": 15,
+  "waterCap": 5,
+  "waterAmbientCap": 20,
+  "passivePersistent": true,
+  "hostilePersistent": true,
+  "ambientPersistent": true,
+  "waterPersistent": true
+}

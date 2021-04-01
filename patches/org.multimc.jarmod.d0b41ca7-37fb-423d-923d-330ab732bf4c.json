@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "cub",
+            "MMC-filename": "d0b41ca7-37fb-423d-923d-330ab732bf4c.jar",
+            "MMC-hint": "local",
+            "name": "org.multimc.jarmods:d0b41ca7-37fb-423d-923d-330ab732bf4c:1"
+        }
+    ],
+    "name": "cub (jar mod)",
+    "uid": "org.multimc.jarmod.d0b41ca7-37fb-423d-923d-330ab732bf4c"
+}

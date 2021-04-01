@@ -1,0 +1,28 @@
+[defaultConfig]
+enabled = true
+type = "LINEAR"
+linearFogStartMult = 0.25
+linearFogEndMult = 1.0
+expFogMult = 3.0
+exp2FogMult = 1.75
+[dimensions."minecraft:the_nether"]
+enabled = true
+type = "LINEAR"
+linearFogStartMult = 0.0
+linearFogEndMult = 1.0
+expFogMult = 3.0
+exp2FogMult = 1.75
+[dimensions."minecraft:the_end"]
+enabled = true
+type = "LINEAR"
+linearFogStartMult = 0.0
+linearFogEndMult = 1.0
+expFogMult = 3.0
+exp2FogMult = 1.75
+[dimensions."minecraft:overworld"]
+enabled = true
+type = "LINEAR"
+linearFogStartMult = 0.25
+linearFogEndMult = 1.0
+expFogMult = 3.0
+exp2FogMult = 1.75

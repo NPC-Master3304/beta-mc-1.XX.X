@@ -1,0 +1,6 @@
+enableLegacyBowPosition = true
+enableLegacyRodPosition = true
+enableLegacySneakAnimation = true
+enableSwordBlockingAnimation = true
+enableSwordBlockingAnimationShield = true
+enableLegacyPlayerList = true
