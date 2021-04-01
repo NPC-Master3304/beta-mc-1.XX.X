@@ -1,1 +1,1 @@
-# beta-mc-1.XX.X
+# this is a multimc instance. put this in "MultiMC/instances/[FOLDERNAME]
