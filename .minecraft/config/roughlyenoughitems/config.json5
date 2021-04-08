@@ -940,9 +940,9 @@
 			// Declares the position of the config button.
 			"configButtonLocation": "UPPER",
 			// Declares whether the craftable filter button is enabled.
-			"enableCraftableOnlyButton": true,
+			"enableCraftableOnlyButton": false,
 			// Declares whether the utils buttons are shown.
-			"showUtilsButtons": true
+			"showUtilsButtons": false
 		},
 		// Declares the appearance of recipe's border.
 		"recipeBorder": "NONE",

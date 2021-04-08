@@ -1,6 +1,6 @@
 version:2586
 autoJump:false
-autoSuggestions:false
+autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:false
@@ -33,7 +33,7 @@ graphicsMode:1
 ao:0
 biomeBlendRadius:2
 renderClouds:false
-resourcePacks:["vanilla","programer_art","file/Minecraft Beta 1.16.4","file/rip hunger bar n lvl","Fabric Mods"]
+resourcePacks:["vanilla","programer_art","file/Minecraft Beta 1.16.4","file/Netherite to Emerald.zip","file/rip hunger bar n lvl","Fabric Mods"]
 incompatibleResourcePacks:[]
 lastServer:172.67.159.63:25565
 lang:en_us
@@ -42,8 +42,9 @@ chatOpacity:1.0
 chatLineSpacing:0.0
 textBackgroundOpacity:0.6514084339141846
 backgroundForChatOnly:true
+fullscreenResolution:640x480@60:24
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:false
 overrideWidth:0
 overrideHeight:0
@@ -78,12 +79,12 @@ key_key.sprint:key.keyboard.unknown
 key_key.drop:key.keyboard.q
 key_key.inventory:key.keyboard.i
 key_key.chat:key.keyboard.t
-key_key.playerlist:key.keyboard.tab
+key_key.playerlist:key.keyboard.r
 key_key.pickItem:key.mouse.middle
 key_key.command:key.keyboard.slash
 key_key.socialInteractions:key.keyboard.unknown
-key_key.screenshot:key.keyboard.f2
-key_key.togglePerspective:key.keyboard.f5
+key_key.screenshot:key.keyboard.unknown
+key_key.togglePerspective:key.keyboard.tab
 key_key.smoothCamera:key.keyboard.unknown
 key_key.fullscreen:key.keyboard.unknown
 key_key.spectatorOutlines:key.keyboard.unknown
@@ -107,10 +108,10 @@ key_key.bettercontrols.toggle_forward:key.keyboard.unknown
 key_key.bettercontrols.toggle_jump:key.keyboard.unknown
 key_key.bettercontrols.reset_all_toggles:key.keyboard.unknown
 key_key.bettercontrols.open_menu:key.keyboard.unknown
-key_key.dynamicfps.toggle_forced:key.keyboard.unknown
-key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
-soundCategory_master:1.0
-soundCategory_music:1.0
+key_key.entityculling.toggle:key.keyboard.unknown
+key_key.nostrip.togglestrip:key.keyboard.unknown
+soundCategory_master:1.0082781
+soundCategory_music:1.0070423
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

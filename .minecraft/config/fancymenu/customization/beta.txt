@@ -1,0 +1,83 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  renderorder = foreground
+}
+
+customization {
+  path = version.png
+  orientation = top-left
+  x = 0
+  width = 129
+  actionid = 3e8227d8-17e3-4ea0-8355-a3359500fbc11617686327079
+  action = addtexture
+  y = 5
+  height = 8
+}
+
+customization {
+  identifier = %id=400358%
+  orientation = bottom-centered
+  x = -100
+  action = movebutton
+  y = -84
+}
+
+customization {
+  identifier = %id=400358%
+  action = setbuttonlabel
+  value = Mods and Texture Packs
+}
+
+customization {
+  identifier = %id=604394%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400334%
+  orientation = bottom-right
+  x = -11
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=400334%
+  width = 11
+  action = resizebutton
+  height = 10
+}
+
+customization {
+  identifier = %id=400334%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400394%
+  orientation = bottom-centered
+  x = -100
+  action = movebutton
+  y = -108
+}
+
+customization {
+  identifier = %id=400394%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502394%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376394%
+  action = hidebutton
+}
+
