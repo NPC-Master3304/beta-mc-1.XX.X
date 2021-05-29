@@ -1,0 +1,11 @@
+{
+  "classicDraw": true,
+  "shadows": true,
+  "allFlat": false,
+  "rotatingItems": false,
+  "blocksFlat": false,
+  "merge": false,
+  "blockDrops": true,
+  "mobDrops": true,
+  "explosionDrops": true
+}
