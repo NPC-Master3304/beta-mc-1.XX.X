@@ -1,2 +1,2 @@
 showHandsInMovingBoat = true
-itemsToShowInMovingBoat = ["minecraft:filled_map"]
+itemsToShowInMovingBoat = ["*", "minecraft:filled_map"]
